@@ -1,6 +1,8 @@
-# ReactJS Examples by Jazer Abreu
+# ReactJS chat example by Jazer Abreu
 
 ## Execute
 
 - npm install
-- Open each example.
+- npm install -g browserify
+- npm run build
+- open index.html
