@@ -1,4 +1,4 @@
-# ReactJS chat example by Jazer Abreu
+# ReactJS chat example
 
 ## Execute
 
